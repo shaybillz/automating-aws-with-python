@@ -1,2 +1,2 @@
-# automating-aws-with-python
-Repository for automating aws with python
+# automating aws with python
+Repository for automating aws with python scripts
